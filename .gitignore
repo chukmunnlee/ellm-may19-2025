@@ -1,0 +1,6 @@
+.venv
+venv
+.chroma
+.env
+tmp
+__pycache__
